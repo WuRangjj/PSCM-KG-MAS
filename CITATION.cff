@@ -1,0 +1,17 @@
+﻿cff-version: 1.2.0
+message: "If you use this code, please cite the manuscript below."
+title: PSCM-KG-MAS
+abstract: "Code for a perovskite solar cell materials knowledge graph and the multi-agent reasoning system built on it."
+authors:
+  - family-names: Wu
+    given-names: Ran
+  - family-names: Wang
+    given-names: Wenyao
+  - family-names: He
+    given-names: Tao
+  - family-names: Xu
+    given-names: Lina
+  - family-names: Fang
+    given-names: Guoyong
+license: MIT
+type: software

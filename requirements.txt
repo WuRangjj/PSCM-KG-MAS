@@ -1,0 +1,9 @@
+﻿neo4j>=5.0
+openai>=1.0
+dashscope>=1.14
+python-dotenv>=1.0
+pdf2image>=1.16
+PyPDF2>=3.0
+PyMuPDF>=1.23
+matplotlib>=3.7
+streamlit>=1.30
