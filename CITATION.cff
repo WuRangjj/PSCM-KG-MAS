@@ -5,6 +5,8 @@ abstract: "Code for a perovskite solar cell materials knowledge graph and the mu
 authors:
   - family-names: Wu
     given-names: Ran
+  - family-names: Zhao
+    given-names: Jin
   - family-names: Wang
     given-names: Wenyao
   - family-names: He
